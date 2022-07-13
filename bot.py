@@ -1,7 +1,8 @@
 import requests
 from datetime import datetime
 #Telegram API URL
-api_url_telegram = "https://api.telegram.org/bot1686545061:AAFYtHHqBN0326d3aMraFHKq6rStkXhpvQk/sendMessage?chat_id=@__groupid__&text="
+#chat_url = https://api.telegram.org/bot16865xxxx:AAFYtHHqBN0326dxxxxFHKq6rStkXhpvQk/sendMessage?chat_id=@__groupid__&text=
+api_url_telegram = "/////////////////////////////////////chat url//////////////////////////////////// "
 telegram_api_bot= "https://api.telegram.org/bot"
 
 group_id = "vaccinetest123"
